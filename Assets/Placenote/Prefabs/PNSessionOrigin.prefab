@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2711838841766744936}
   - component: {fileID: 5803561621592095700}
   m_Layer: 0
-  m_Name: PlaceARSessionOrigin
+  m_Name: PNSessionOrigin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,7 +62,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8244b0a8db9044970b67cdf6b966240b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiKey: 
+  apiKey: 093it5z35y8kvm5sx50nsyj6u1uo5emrtg8rv2imrbpdc28npatthhmz9cv79qxbv5sx22b4t4avp2s5eng9nt99ql8d1dm846wx
   cameraManager: {fileID: 4604817127376127514}
 --- !u!114 &1035804765858530082
 MonoBehaviour:

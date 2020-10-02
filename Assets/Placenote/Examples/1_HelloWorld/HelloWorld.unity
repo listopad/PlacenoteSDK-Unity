@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -51,8 +51,8 @@ LightmapSettings:
     m_IndirectOutputScale: 1
     m_AlbedoBoost: 1
     m_EnvironmentLightingMode: 0
-    m_EnableBakedLightmaps: 1
-    m_EnableRealtimeLightmaps: 1
+    m_EnableBakedLightmaps: 0
+    m_EnableRealtimeLightmaps: 0
   m_LightmapEditorSettings:
     serializedVersion: 12
     m_Resolution: 2
@@ -2294,6 +2294,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: PNSessionOrigin
       objectReference: {fileID: 0}
+    - target: {fileID: 7057712620440577599, guid: 4ff1c5a4b485e47aca5aacd4a978133d,
+        type: 3}
+      propertyPath: m_ClearFlags
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4536323238531420989, guid: 4ff1c5a4b485e47aca5aacd4a978133d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2352,17 +2357,12 @@ PrefabInstance:
     - target: {fileID: 3286079363286424432, guid: 4ff1c5a4b485e47aca5aacd4a978133d,
         type: 3}
       propertyPath: apiKey
-      value: 
+      value: 093it5z35y8kvm5sx50nsyj6u1uo5emrtg8rv2imrbpdc28npatthhmz9cv79qxbv5sx22b4t4avp2s5eng9nt99ql8d1dm846wx
       objectReference: {fileID: 0}
     - target: {fileID: 5803561621592095700, guid: 4ff1c5a4b485e47aca5aacd4a978133d,
         type: 3}
       propertyPath: m_Enabled
       value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7057712620440577599, guid: 4ff1c5a4b485e47aca5aacd4a978133d,
-        type: 3}
-      propertyPath: m_ClearFlags
-      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4ff1c5a4b485e47aca5aacd4a978133d, type: 3}

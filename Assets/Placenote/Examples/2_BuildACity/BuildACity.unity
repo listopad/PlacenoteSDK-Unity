@@ -2314,7 +2314,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1092228389}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3675e3afca03e4bdc975f39ccb89ae53, type: 3}
+  m_Script: {fileID: 11500000, guid: a394879f64ef64f448a138c89c707e3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   initPanel: {fileID: 1778310685}
@@ -2322,7 +2322,7 @@ MonoBehaviour:
   localizedPanel: {fileID: 293679561}
   starTexture: {fileID: 2800000, guid: 0f17e09d88c2346b59b4850e0b73c3d5, type: 3}
   saveMapButton: {fileID: 175226281}
-  saveButtonProgressBar: {fileID: 1594838725}
+  saveButtonProgressBar: {fileID: 175226282}
   notifications: {fileID: 2045754183}
 --- !u!114 &1092228391
 MonoBehaviour:
@@ -2518,7 +2518,7 @@ PrefabInstance:
     - target: {fileID: 3286079363286424432, guid: 4ff1c5a4b485e47aca5aacd4a978133d,
         type: 3}
       propertyPath: apiKey
-      value: 
+      value: 093it5z35y8kvm5sx50nsyj6u1uo5emrtg8rv2imrbpdc28npatthhmz9cv79qxbv5sx22b4t4avp2s5eng9nt99ql8d1dm846wx
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4ff1c5a4b485e47aca5aacd4a978133d, type: 3}
